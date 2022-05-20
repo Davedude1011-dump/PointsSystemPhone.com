@@ -1,5 +1,9 @@
 body {
     background-color: rgb(0, 0, 0);
     background-repeat: no-repeat;
-    width: 30%
+    
+}
+html {
+    overflow-x: hidden;
+    max-width: 100%
 }
